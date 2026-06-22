@@ -4,7 +4,7 @@
 ## Executive Summary
 This repository outlines the structural methodology and algorithmic approach developed during my Operations Data Internship at Honda Cars India Ltd. The primary objective was to resolve severe supply chain bottlenecks and maximize warehouse spatial throughput using data-driven modeling and automated operational tools.
 
-*⚠️ **Data Privacy Notice:** Due to strict Non-Disclosure Agreements (NDA) and corporate data security policies, all proprietary facility blueprints, load distribution data, and internal automation source code have been withheld from this public repository. The details below outline the generalized mathematical and structural approach.*
+* **Data Privacy Notice:** Due to strict Non-Disclosure Agreements (NDA) and corporate data security policies, all proprietary facility blueprints, load distribution data, and internal automation source code have been withheld from this public repository. The details below outline the generalized mathematical and structural approach.*
 
 ---
 
